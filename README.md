@@ -7,6 +7,9 @@ This project provides a comprehensive analysis of E-Commerce data to uncover ins
 **Tools and Technologies**:
 
 MySQL: Used for querying and managing the ecommerce database.
+
 Python: Used for data manipulation, analysis, and visualization.
+
 Pandas: For data manipulation and analysis.
+
 Seaborn and Matplotlib: For data visualization.
