@@ -38,6 +38,31 @@ By addressing these questions, the project aims to provide a comprehensive under
 
 This project provides a comprehensive analysis of E-Commerce data to uncover insights into sales trends, customer behavior, payment preferences, and geographical distribution of sales. Utilizing MySQL for data extraction and Python for data manipulation and visualization, this project aims to provide valuable insights that can inform data-driven decisions for E-Commerce businesses.
 
+
+
+**Steps Followed**
+
+1.) Library Imports:
+
+Imported necessary libraries such as pandas, matplotlib, seaborn, and SQLite for data manipulation, visualization, and database interaction.
+
+2.) Database Connection:
+
+Established a connection to an SQLite database containing E-Commerce data.
+
+3.) Data Extraction:
+
+Used SQL queries to extract relevant data from various tables within the database. For instance, extracting order details, customer information, and payment values.
+
+4.) Data Transformation:
+
+Transformed and aggregated the extracted data to derive meaningful insights. This involved grouping, filtering, and ranking data to identify top customers based on payment value per year.
+
+5.) Data Analysis and Visualization:
+
+Utilized seaborn and matplotlib to create visual representations of the data. Example visualizations include bar plots showing top customers by payment value for different years.
+
+
 **Tools and Technologies**
 
 MySQL: Used for querying and managing the ecommerce database.
