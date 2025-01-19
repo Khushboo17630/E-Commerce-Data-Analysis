@@ -12,7 +12,7 @@ In the highly competitive world of e-commerce, gaining insights from customer an
 
 3.) Sales by Category: Determine the total sales per category to identify the most and least popular product categories.
 
-4.) Customer Demographics: Count the number of customers from each state to analyze regional customer base.
+4.) Customer Demographics: Count the number of customers from each state to analyze Regional customer base.
 
 5.) Payment Methods: Calculate the percentage of orders paid in installments to understand customer payment preferences.
 
@@ -44,11 +44,11 @@ This project provides a comprehensive analysis of E-Commerce data to uncover ins
 
 1.) Library Imports:
 
-Imported necessary libraries such as pandas, matplotlib, seaborn, and SQLite for data manipulation, visualization, and database interaction.
+Imported necessary libraries such as pandas, Matplotlib, seaborn, and MySQL for data manipulation, visualization, and database interaction.
 
 2.) Database Connection:
 
-Established a connection to an SQLite database containing E-Commerce data.
+Established a connection to MySQL database containing E-Commerce data.
 
 3.) Data Extraction:
 
@@ -60,7 +60,7 @@ Transformed and aggregated the extracted data to derive meaningful insights. Thi
 
 5.) Data Analysis and Visualization:
 
-Utilized seaborn and matplotlib to create visual representations of the data. Example visualizations include bar plots showing top customers by payment value for different years.
+Utilized Seaborn and Matplotlib to create visual representations of the data. Example visualizations include bar plots showing top customers by payment value for different years.
 
 
 **Tools and Technologies**
